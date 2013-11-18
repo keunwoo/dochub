@@ -112,11 +112,11 @@ body {
   color: #333333;
   background-color: #ffffff;
 }
-a {
+a[href] {
   color: #0088cc;
   text-decoration: none;
 }
-a:hover {
+a[href]:hover {
   color: #005580;
   text-decoration: underline;
 }
